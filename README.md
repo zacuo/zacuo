@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Zack Kuo! 👋
 
-<!--
-**zacuo/zacuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+**Bachelor's degree in Computer Science** from **National Cheng Kung University, Taiwan**. Passionate about technology, coding, and problem-solving, I enjoy exploring various fields in software development.
 
-Here are some ideas to get you started:
+## 🚀 Interests & Skills
+- 🌐 Web Development
+- 🧠 AI & Machine Learning Enthusiast
+- 📦 Containerization Technologies (Docker, Kubernetes)
+- 🔧 Software Development & System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- Email: zaccuo@gmail.com
+
+Thanks for visiting my profile! 😊
